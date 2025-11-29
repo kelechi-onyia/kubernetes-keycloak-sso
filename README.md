@@ -1,4 +1,4 @@
-# Config Access to Kubernetes using Keycloak
+# Configuration to Access Kubernetes using Keycloak
 
 Simple demonstration on how to manage access to kubernetes cluster using keycloak SSO.
 
