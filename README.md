@@ -46,7 +46,7 @@ Be sure to create a new Realm in keycloak for the demo. If you do not know how t
 4. Add member `john.doe` 
 5. Repeat step 1-4 for `jane.doe` and add user to `k8s-cluster-dev` group 
 
-## 2. Create and config Client in Keycloak
+## 2. Create and configure Client in Keycloak
 
 1. Click on Clients -> `Create client`
 2. Set Client ID to `kubernetes` and Name to `kubernetes`
