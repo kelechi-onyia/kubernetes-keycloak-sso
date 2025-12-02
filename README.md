@@ -56,7 +56,7 @@ Be sure to create a new Realm in keycloak for the demo. If you do not know how t
 6. Set `Web origins` to `+`
 7. In the `Credentials` tab, copy the client secret and save it somewhere. We will need it later
 
-## 3. Config Kube-ApiServer
+## 3. Edit Kube-ApiServer config
 
 1. ssh into controlplane
 2. Edit kube-apisever with editor of choice `vi /etc/kubernetes/manifests/kube-apiserver.yaml`
